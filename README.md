@@ -1,2 +1,2 @@
 # C-Programming
-Practicing C programming language
+C programming language - problem solution
